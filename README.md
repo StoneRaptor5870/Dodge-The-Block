@@ -1,4 +1,4 @@
-# Dodge-the-obstacles
+# Dodge-the-blocks
 
 It is a simple game made using CSS animations.
 
